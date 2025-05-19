@@ -72,3 +72,9 @@ You must create these columns in your Notion database (use these exact names and
 - Notion API docs: https://developers.notion.com/
 
 If you have any issues, feel free to raise an issue or contact me! 
+
+<img width="1236" alt="image" src="https://github.com/user-attachments/assets/e6ee8192-d657-4bd7-b63a-1821c967c460" />
+
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/a4381f60-8dea-4c2e-ba46-5b6e72c9f2b5" />
+
+
